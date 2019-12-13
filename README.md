@@ -29,6 +29,6 @@ Photo of pvc model and 3d printed model <br/>
 The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter removes VOCs (volatile organic compounds)
 
 ## Next Steps:
-Next steps include creating an model simulation to determine how the room size affects the fan speed required. This will be used to determine the fan size appropriate for an average room -- for larger rooms, installing several filteration systems may become necessary. Additionally, a secondary inverse ventilation system will be added to remove stale air in conjunction with the current system that brings in fresh air. For ease of use, a self-calibrating system for the sensors will be devised.
+Next steps include creating an model simulation to determine how the room size affects the fan speed required. This will be used to determine the fan size appropriate for an average room -- for larger rooms, installing several filteration systems may become necessary. Additionally, a secondary ventilation system will be added to remove stale air in conjunction with the current system that brings in fresh air. For ease of use, a self-calibrating system for the sensors will be devised. Lastly a machine learning model to predict when pollutants are likely to congregate will be devised.
   
   
