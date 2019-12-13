@@ -3,6 +3,7 @@
 
 How Safe is the Air You Breathe -- Why an indoor air filtration system is needed: see presentation entitoled IDDPresentation. 
 Prototype Design: Prototype Diagram UX.pdf
+[Prototype Design](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf)
 ## Product Documentation
 Sensor Hub: <picture>
 Fan:
