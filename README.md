@@ -18,7 +18,7 @@ I used NRF24L01 radio modules to wirelessly communicate between the sensor hub a
 Problems with radio: I experienced some inexplicable trouble when using the radio modules when they would randomly start and stop working. The most confusing thing was that the transmitter would not worked if it matched the reciever (which goes against documentation). I managed to get it working by setting the reciever CE = 9 and CSN = 8 and on the transmitter CE = 7 and CSN = 8.<br/>
 
 ## Sensors
-For this project I used two CO2 sensors, a gas sensor, a dust sensor
+For this project I used [two](https://wiki.dfrobot.com/Gravity__Analog_Infrared_CO2_Sensor_For_Arduino_SKU__SEN0219) [CO2](https://wiki.dfrobot.com/CO2_Sensor_SKU_SEN0159) sensors, a [gas sensor](http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ2/), and a [dust sensor](http://wiki.seeedstudio.com/Grove-Dust_Sensor/). The gas sensor can be used to detect a variety of substances such CO, propane and smoke among other by adjusting the weight. Calibrating the sensor took several days.  
 
 ## Vent System
 How to Install: <photo of installation> <br/>
