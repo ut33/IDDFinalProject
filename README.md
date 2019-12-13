@@ -18,7 +18,7 @@ I used NRF24L01 radio modules to wirelessly communicate between the sensor hub a
 Problems with radio: I experienced some inexplicable trouble when using the radio modules when they would randomly start and stop working. The most confusing thing was that the transmitter would not worked if it matched the reciever (which goes against documentation). I managed to get it working by setting the reciever CE = 9 and CSN = 8 and on the transmitter CE = 7 and CSN = 8.<br/>
 
 ## Sensors
-For each sensor -- what it reads, how it translates to ppm, how to calibrate
+For this project I used two CO2 sensors, a gas sensor, a dust sensor
 
 ## Vent System
 How to Install: <photo of installation> <br/>
