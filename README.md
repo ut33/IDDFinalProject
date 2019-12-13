@@ -25,5 +25,6 @@ For each sensor -- what it reads, how it translates to ppm, how to calibrate
 Diagram of model
 The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter for removing VOC
 
+## Next Steps:
   
   
