@@ -5,7 +5,7 @@
 <br/>
 [Prototype Design](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf)
 ## Product Documentation
-Sensor Hub: <picture>
+Sensor Hub: <picture> ![Photo](RendersV2/Ren1.JPG)
 Fan:
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: <br/>
