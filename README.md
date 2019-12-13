@@ -14,9 +14,8 @@ Video of fan responding to single sensor: <> <br/>
 Video of radios transmitting:<> <br/>
 
 ## Radios
-How to align pins: table/diagram <br/>
-Problems with radio <br/>
-Basic Radio Code <br/>
+I used NRF24L01 radio modules to wirelessly communicate between the sensor hub and filtration system. For the Metro Mini or Arduino Uno, connect VCC to 3.3V, GND to GND, MOSI (Master Out Slave In) to 11, MISO (Master In Slave Out) to 12 and SCK (Serial Clock) to 13. Other version of Arduino may require different connections. CE (Chip Enable) and CSN (Chip Select Not) can be selected to any digital I/O pin.
+Problems with radio: I experienced some inexplicable trouble when using the radio modules when they would randomly start and stop working. The most confusing thing was that the transmitter would not worked if it matched the reciever (which goes against documentation). I managed to get it working by setting the reciever CE = 9 and CSN = 8 and on the transmitter CE = 7 and CSN = 8.<br/>
 
 ## Sensors
 For each sensor -- what it reads, how it translates to ppm, how to calibrate
