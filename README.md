@@ -7,25 +7,28 @@
 ## Product Documentation
 Sensor Hub: <picture>
 Fan:
-Filter System: <filters inside fan>
-How to Install: <photo of installation>
-Video of complete system in action:
-Video of sensor readings on phone: <>
-Video of fan responding to single sensor: <>
-Video of radios transmitting:<>
+Filter System: <filters inside fan> <br/>
+Video of complete system in action: <br/>
+Video of sensor readings on phone: <> <br/>
+Video of fan responding to single sensor: <> <br/>
+Video of radios transmitting:<> <br/>
 
 ## Radios
-How to align pins: table/diagram
-Problems with radio
-Basic Radio Code
+How to align pins: table/diagram <br/>
+Problems with radio <br/>
+Basic Radio Code <br/>
 
 ## Sensors
 For each sensor -- what it reads, how it translates to ppm, how to calibrate
 
 ## Vent System
-Diagram of model
-The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter for removing VOC
+How to Install: <photo of installation> <br/>
+The system will be installed in the window so that fresh air is brought in. The fan faces inside and acts as a vacuum. Before entering the room it passes through several systems.   
+Diagram of model <br/>
+Photo of pvc model and 3d printed model <br/>
+The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter removes VOCs (volatile organic compounds)
 
 ## Next Steps:
+Next steps include creating an model simulation to determine how the room size affects the fan speed required. This will be used to determine the fan size appropriate for an average room -- for larger rooms, installing several filteration systems may become necessary. Additionally, a secondary inverse ventilation system will be added to remove stale air in conjunction with the current system that brings in fresh air. For ease of use, a self-calibrating system for the sensors will be devised.
   
   
