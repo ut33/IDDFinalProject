@@ -2,7 +2,7 @@
 *A lab report by Vini Tripathii*
 
 How Safe is the Air You Breathe -- Why an indoor air filtration system is needed: see presentation entitoled IDDPresentation. 
-Prototype Design:
+Prototype Design: Prototype Diagram UX.pdf
 ## Product Documentation
 Sensor Hub: <picture>
 Fan:
@@ -19,6 +19,11 @@ Problems with radio
 Basic Radio Code
 
 ## Sensors
+For each sensor -- what it reads, how it translates to ppm, how to calibrate
+
+## Vent System
+Diagram of model
+The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter for removing VOC
 
   
   
