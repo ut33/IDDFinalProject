@@ -1,7 +1,8 @@
 # IDDFinalProject: Environmentally Efficient Smart Home Air Quality Network
 *A lab report by Vini Tripathii*
 
-[How Safe is the Air You Breathe -- Why an indoor air filtration system is needed: see presentation entitoled IDDPresentation](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf) <br/><br/>
+[How Safe is the Air You Breathe -- Why an indoor air filtration system is needed](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf) <br/>
+<br/>
 [Prototype Design](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf)
 ## Product Documentation
 Sensor Hub: <picture>
