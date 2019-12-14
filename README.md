@@ -22,9 +22,9 @@ For this project I used [two](https://wiki.dfrobot.com/Gravity__Analog_Infrared_
 The average of the sensors readings over last 30 seconds is taken and converted to ppm. This value is then compared to the advisable threshold -- if any sensor's readings are over the threshold, the fan turns on and remains on until the pollutant concentration decreases to an acceptable level.
 
 ## Vent System
-How to Install ![Photo](Picture1.JPG) <br/>
+How to Install ![Photo](Picture1.png) <br/>
 The system will be installed in the window so that fresh air is brought in. The fan faces inside and acts as a vacuum. Before entering the room it passes through several systems.   
-Diagram of model ![Photo](Picture2.JPG) <br/>
+Diagram of model ![Photo](Picture2.jpg) <br/>
 Photo of pvc model and 3d printed model <br/>
 The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter removes VOCs (volatile organic compounds)
 
