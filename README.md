@@ -28,7 +28,6 @@ The average of the sensors readings over last 30 seconds is taken and converted 
 How to Install ![Photo](Picture1.png) <br/>
 The system will be installed in the window so that fresh air is brought in. The fan faces inside and acts as a vacuum. Before entering the room it passes through several systems.   
 Diagram of model ![Photo](Picture2.jpg) <br/>
-Photo of pvc model and 3d printed model <br/>
 The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter removes VOCs (volatile organic compounds)
 
 ## Next Steps:
