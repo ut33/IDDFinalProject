@@ -17,7 +17,7 @@ Filtration System: ![Photo](IMG-1652.JPG) <br/>
 ![Photo](IMG-1485.jpg) <br/>
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: https://drive.google.com/file/d/1fjfDov-qPdvtKRKVDF_7Mbi5ONEb0vfH/view?usp=sharing<br/>
-Video of sensor readings on phone: <br/>
+Video of sensor readings on phone: https://drive.google.com/file/d/1s3Nm3INkbGj4YVEbHKb8z4Sv-95rcsjq/view?usp=sharing<br/>
 Video of fan responding to single sensor: https://drive.google.com/file/d/1GwvbLZ-7p5RIN73osBT0o30GPNW3WzUi/view?usp=sharing<br/>
 Video of radios transmitting: https://drive.google.com/file/d/1WDd4G-1KmQZWOvI25Cmm_kbKvaxpefgv/view?usp=sharing<br/>
 
