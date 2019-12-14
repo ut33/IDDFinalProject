@@ -10,11 +10,11 @@ Fan: ![Photo](IMG-1651.JPG) <br/>
 Filtration System: ![Photo](IMG-1652.JPG) <br/>
 ![Photo](IMG-1653.JPG) <br/>
 ![Photo](IMG-1654.JPG) <br/>
-![Photo](IMG-1478.JPG) <br/>
-![Photo](IMG-1482.JPG) <br/>
-![Photo](IMG-1483.JPG) <br/>
-![Photo](IMG-1484.JPG) <br/>
-![Photo](IMG-1485.JPG) <br/>
+![Photo](IMG-1478.jpg) <br/>
+![Photo](IMG-1482.jpg) <br/>
+![Photo](IMG-1483.jpg) <br/>
+![Photo](IMG-1484.jpg) <br/>
+![Photo](IMG-1485.jpg) <br/>
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: https://drive.google.com/file/d/1fjfDov-qPdvtKRKVDF_7Mbi5ONEb0vfH/view?usp=sharing<br/>
 Video of sensor readings on phone: <br/>
