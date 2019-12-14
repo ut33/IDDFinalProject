@@ -10,8 +10,8 @@ Fan:
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: https://drive.google.com/file/d/1fjfDov-qPdvtKRKVDF_7Mbi5ONEb0vfH/view?usp=sharing<br/>
 Video of sensor readings on phone: <br/>
-Video of fan responding to single sensor:<br/>
-Video of radios transmitting:<br/>
+Video of fan responding to single sensor: https://drive.google.com/file/d/1GwvbLZ-7p5RIN73osBT0o30GPNW3WzUi/view?usp=sharing<br/>
+Video of radios transmitting: https://drive.google.com/file/d/1WDd4G-1KmQZWOvI25Cmm_kbKvaxpefgv/view?usp=sharing<br/>
 
 ## Radios
 I used NRF24L01 radio modules to wirelessly communicate between the sensor hub and filtration system. For the Metro Mini or Arduino Uno, connect VCC to 3.3V, GND to GND, MOSI (Master Out Slave In) to 11, MISO (Master In Slave Out) to 12 and SCK (Serial Clock) to 13. Other version of Arduino may require different connections. CE (Chip Enable) and CSN (Chip Select Not) can be selected to any digital I/O pin.
