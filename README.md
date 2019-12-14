@@ -5,8 +5,11 @@
 <br/>
 [Prototype Design](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf)
 ## Product Documentation
-Sensor Hub: <picture> 
-Fan:
+Sensor Hub: ![Photo](IMG-1650.JPG) <br/>
+Fan: ![Photo](IMG-1651.JPG) <br/>
+Filtration System: ![Photo](IMG-1652.JPG) <br/>
+![Photo](IMG-1653.JPG) <br/>
+![Photo](IMG-1654.JPG) <br/>
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: https://drive.google.com/file/d/1fjfDov-qPdvtKRKVDF_7Mbi5ONEb0vfH/view?usp=sharing<br/>
 Video of sensor readings on phone: <br/>
