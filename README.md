@@ -5,7 +5,7 @@
 <br/>
 [Prototype Design](//https://github.com/ut33/IDDFinalProject/blob/master/Prototype%20Diagram%20UX.pdf)
 ## Product Documentation
-Sensor Hub: <picture> ![Photo](RendersV2/Ren1.JPG)
+Sensor Hub: <picture> 
 Fan:
 Filter System: <filters inside fan> <br/>
 Video of complete system in action: https://drive.google.com/file/d/1fjfDov-qPdvtKRKVDF_7Mbi5ONEb0vfH/view?usp=sharing<br/>
@@ -22,9 +22,9 @@ For this project I used [two](https://wiki.dfrobot.com/Gravity__Analog_Infrared_
 The average of the sensors readings over last 30 seconds is taken and converted to ppm. This value is then compared to the advisable threshold -- if any sensor's readings are over the threshold, the fan turns on and remains on until the pollutant concentration decreases to an acceptable level.
 
 ## Vent System
-How to Install: <photo of installation> <br/>
+How to Install ![Photo](Picture1.JPG) <br/>
 The system will be installed in the window so that fresh air is brought in. The fan faces inside and acts as a vacuum. Before entering the room it passes through several systems.   
-Diagram of model <br/>
+Diagram of model ![Photo](Picture2.JPG) <br/>
 Photo of pvc model and 3d printed model <br/>
 The pollen filter is used to remove large particles, the HEPA filter for PM2.5 (particles with diameter of 2.5 micrometers or less), and the carbon filter removes VOCs (volatile organic compounds)
 
